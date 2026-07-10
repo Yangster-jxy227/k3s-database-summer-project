@@ -7,7 +7,7 @@
 - July 2026
   - Changes to Postgres database to updated version and driver
   - Refactored to adopt this tech stack
-    - Backend - Spring Boot
+    - Backend - Spring Boot and Maven
     - Frontend - Angular 
     - Database - Postgres
   - Adopted to Kubernetes (K3S) Cluster 
