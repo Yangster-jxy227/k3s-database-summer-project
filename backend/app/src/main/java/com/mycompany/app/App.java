@@ -1,9 +1,11 @@
+package com.mycompany.app;
 //Java
 //----import java.io.Console;----//
 import java.util.Scanner;
 //import java.util.*;
 //main 
 
+@SpringBootApplication 
 public class App{
     //static final String DB_url = "jdbc:oracle:thin:@//rocordb01.cse.lehigh.edu:1522/cse241pdb";
 

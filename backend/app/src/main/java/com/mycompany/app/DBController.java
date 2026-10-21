@@ -1,3 +1,4 @@
+package com.mycompany.app;
 //Connects to Oracle Database
 import java.sql.*; 
 import java.util.*;

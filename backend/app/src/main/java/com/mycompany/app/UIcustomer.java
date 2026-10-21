@@ -1,3 +1,4 @@
+package com.mycompany.app;
 //Interface for customer
 //import java.io.Console;
 import java.util.Scanner;
